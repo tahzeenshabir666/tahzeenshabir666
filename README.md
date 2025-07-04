@@ -1,6 +1,6 @@
 # Hi, I'm Tahzeen Shabir
 
- MSc IT graduate |  Frontend Developer |  Lifelong Learner  
+ Master's in IT|  Frontend Developer |  Lifelong Learner  
  Srinagar, Jammu & Kashmir |  Open to Job Opportunities
 
 ---
